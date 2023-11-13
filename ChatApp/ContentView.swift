@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ChatApp
 //
-//  Created by Stephanie Diep on 2022-01-10.
+//  Created by Jessica Lang on 2022-01-10.
 //
 
 import SwiftUI

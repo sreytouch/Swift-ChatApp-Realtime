@@ -2,7 +2,7 @@
 //  TitleRow.swift
 //  ChatApp
 //
-//  Created by Stephanie Diep on 2022-01-11.
+//  Created by Jessica Lang on 2023-11-13.
 //
 
 import SwiftUI
